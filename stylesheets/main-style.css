@@ -1,0 +1,61 @@
+@import url(http://fonts.googleapis.com/css?family=Noto+Sans:400,700|Crete+Round);
+/* line 3, ../sass/main-style.scss */
+body {
+  background: #eee;
+  margin: 0;
+}
+
+/* line 8, ../sass/main-style.scss */
+#main-header {
+  width: 100%;
+  background: #dd4917;
+  padding: 30px;
+}
+/* line 13, ../sass/main-style.scss */
+#main-header h1 {
+  margin: 0;
+}
+/* line 14, ../sass/main-style.scss */
+#main-header h1 a {
+  color: #fff;
+}
+/* line 15, ../sass/main-style.scss */
+#main-header .subtitle {
+  font-size: 16px;
+  font-weight: normal;
+  color: #e79276;
+}
+
+/* line 18, ../sass/main-style.scss */
+.section-header {
+  background: #8ddfda;
+  margin: 0;
+  padding: 15px 30px;
+  margin-top: 30px;
+  color: #0a968d;
+  box-shadow: 0 -2px 0 #b8f4f0;
+}
+
+/* line 27, ../sass/main-style.scss */
+.content {
+  background: #fff;
+  padding: 30px;
+  margin-bottom: 30px;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.15);
+}
+/* line 33, ../sass/main-style.scss */
+.content form, .content .button {
+  margin-bottom: 0;
+}
+
+/* line 38, ../sass/main-style.scss */
+.summarizer {
+  width: 100%;
+  height: 300px;
+  padding: 15px;
+}
+
+/* line 45, ../sass/main-style.scss */
+.summary ul {
+  margin-left: 20px;
+}
