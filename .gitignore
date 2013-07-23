@@ -1,3 +1,24 @@
+<<<<<<< HEAD
 .sass-cache
 *.sassc
 .ruby-version
+=======
+*.gem
+*.rbc
+.bundle
+.config
+coverage
+InstalledFiles
+lib/bundler/man
+pkg
+rdoc
+spec/reports
+test/tmp
+test/version_tmp
+tmp
+
+# YARD artifacts
+.yardoc
+_yardoc
+doc/
+>>>>>>> cb7c8d5e7c24e7771c268be982182f96701dbb00
