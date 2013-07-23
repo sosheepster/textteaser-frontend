@@ -8,7 +8,6 @@ body {
 #main-header {
 	width: 100%;
   background: #dd4917;
-  padding: 30px;
 
 	h1 { margin: 0; }
   h1 a { color: #fff; }
@@ -43,4 +42,34 @@ body {
 
 .summary {
   ul { margin-left: 20px; }
+}
+
+.main-icon {
+}
+
+.header-set {
+  padding: 10px 0;
+}
+
+
+
+@media only screen and (min-width: 320px) and (max-width: 479px) { 
+  .main-icon {
+    padding-top: 10px;
+  }
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+  .header-set {
+    padding-top: 35px;
+  }
+}
+@media only screen and (min-width: 768px) { 
+  .main-icon {
+    padding-top: 20px;
+  }
+}
+@media only screen and (min-width: 1280px) { 
+  .main-icon {
+    padding-top: 24px;
+  }
 }

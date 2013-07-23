@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>textteaser-icon-dark</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page 1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="textteaser-icon-dark" fill="#DD4917">
+            <path d="M756,382 C859.999982,382 966,422 966,422 L966,502 C966,502 866.000011,462 756,462 C656.000011,462 546,502 546,502 L546,422 C546,422 649.999982,382.000023 756,382 Z M756,242 C859.999982,242 966,282 966,282 L966,362 C966,362 866.000011,322 756,322 C656.000011,322 546,362 546,362 L546,282 C546,282 649.999982,242.000023 756,242 Z M757,522 C860.999982,522 967,562 967,562 L967,642 C967,642 867.000011,602 757,602 C657.000011,602 547,642 547,642 L547,562 C547,562 650.999982,522.000023 757,522 Z M268,242 C371.999982,242 478,282 478,282 L478,782 C478,782 378.000011,742 268,742 C168.000011,742 58,782 58,782 L58,282 C58,282 161.999982,242.000023 268,242 Z M752,662 C855.999982,662 962,702 962,702 L962,782 C962,782 862.000011,742 752,742 C652.000011,742 542,782 542,782 L542,702 C542,702 645.999982,662.000023 752,662 Z M752,662" id="Rectangle 1"></path>
+        </g>
+    </g>
+</svg>
